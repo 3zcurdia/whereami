@@ -1,0 +1,6 @@
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:3zcurdia/whereami_rb.git
+[submodule "elixir"]
+	path = elixir
+	url = git@github.com:3zcurdia/whereami_ex.git
